@@ -1,0 +1,130 @@
+body {
+    font-size: 15pt;
+}
+
+
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+/* 
+#one {
+
+  color: red;
+}
+
+#two {
+
+color: blue;  
+}
+
+#three {
+
+color: green;
+  }
+
+    
+
+.ten {
+
+  color: rgb(255,255,0);
+  background-color: green;
+}
+
+#box {
+
+background-color: blue;
+  color: red;
+}
+
+.heading {
+
+color: red;
+
+} 
+ */
+/* h1,h2,h3 {
+
+color: magenta;
+  
+}
+ */
+
+button {
+
+
+  background-color: green;
+
+}
+
+
+p {
+
+text-align: left;
+  
+}
+
+#alin {
+
+text-align: center;
+  color: black;
+background-color: lime;
+text-decoration: underline overline;
+}
+
+
+h1 {
+
+color: black;
+background-color: #C96AB8;
+text-align: center;
+  font-weight: lighter;
+}
+
+/* h2 {
+
+font-weight: 250;
+
+}
+
+h3 {
+
+font-weight: 400;
+  
+}
+
+h4{
+
+  font-weight: 900;
+} */
+
+
+#p1 {
+  
+font-family: Arial;
+
+}
+
+#p2 {
+  
+ font-family: 'Times New Roman';
+}
+
+#1px {
+ 
+ font-family: 'roboto';
+}
+
+#2px{
+
+
+}
+
+#3px {
+
+  
+}
